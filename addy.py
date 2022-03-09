@@ -5,4 +5,4 @@ for i in range(0,len(a)):
         ls = a[i]
     else:
         continue
-print("smallest value:",ls)
+print("smallest value:",ls);
