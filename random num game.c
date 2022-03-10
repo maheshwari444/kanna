@@ -29,7 +29,7 @@ int main()
              
              
         
-    
+    //changes made by Adarsh
         
      printf("%d",num);   
     
