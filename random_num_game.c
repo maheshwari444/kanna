@@ -1,4 +1,3 @@
-random num game.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -31,8 +30,10 @@ int main()
         
     
         
-     printf("%d",num);   
+     printf("the entered num is %d",num);   
     
     return 0;
 }
+
+
 
