@@ -28,7 +28,7 @@ int main()
              
              
         
-    
+    //changes made by Adarsh
         
      printf("the entered num is %d",num);   
     
